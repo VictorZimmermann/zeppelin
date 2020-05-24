@@ -55,10 +55,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout>"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "TaCoS 2021", "LXIX. StuTS", "Linguistics", "StuTS + TaCoS in Leipzig"'
-typeoutFallback: "StuTS + TaCoS in Leipzig"
+heroTitle: "<typeout>linguistics"
+eventDate: "XXth – XXth June, 2021"
+typeoutTextValues: '"", "applied ", "computational ", "corpus", "historical ", "neuro", "psycho", "socio", "theoretical ", "variational "'
+typeoutFallback: ""
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
