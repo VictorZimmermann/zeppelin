@@ -57,8 +57,8 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "<typeout>linguistics"
 eventDate: "XXth – XXth June, 2021"
-typeoutTextValues: '"", "applied ", "computational ", "corpus", "historical ", "neuro", "psycho", "socio", "theoretical ", "variational "'
-typeoutFallback: ""
+typeoutTextValues: '"", "Applied Linguistcs", "Computational Linguistics", "Corpuslinguistcs", "Historical Linguistics", "Neuro- & Psycholinguistics", "Sociolinguistics", "Phonetics & Phonology", "Theoretical Linguistics", "Typology & Variational Linguistics", "TaCoS 2021", "LXIX. StuTS", "TaCoS 2021 + LXIX. StuTS"'
+typeoutFallback: "TaCoS 2021 + LXIX. StuTS"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
