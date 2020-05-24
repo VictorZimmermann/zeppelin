@@ -55,9 +55,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout>linguistics"
+heroTitle: "<typeout>"
 eventDate: "XXth – XXth June, 2021"
-typeoutTextValues: '"", "Applied Linguistcs", "Computational Linguistics", "Corpuslinguistcs", "Historical Linguistics", "Neuro- & Psycholinguistics", "Sociolinguistics", "Phonetics & Phonology", "Theoretical Linguistics", "Typology & Variational Linguistics", "TaCoS 2021", "LXIX. StuTS", "TaCoS 2021 + LXIX. StuTS"'
+typeoutTextValues: '"", "Applied Linguistcs", "Computational Linguistics", "Corpuslinguistcs", "Historical Linguistics", "Neuro- and Psycholinguistics", "Sociolinguistics", "Phonetics and Phonology", "Theoretical Linguistics", "Typology and Variational Linguistics", "TaCoS 2021", "LXIX. StuTS", "TaCoS 2021 + LXIX. StuTS"'
 typeoutFallback: "TaCoS 2021 + LXIX. StuTS"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
